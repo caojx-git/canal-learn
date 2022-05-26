@@ -2,7 +2,8 @@
 
 
 
-视频教程：https://www.bilibili.com/video/BV1aL4y1E7Tb?p=1
+视频教程：https://www.bilibili.com/video/BV1aL4y1E7Tb?p=1  
+学习代码：https://github.com/caojx-git/canal-learn
 
 
 
